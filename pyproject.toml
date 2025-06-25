@@ -4,4 +4,9 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.9"
-dependencies = []
+dependencies = [
+    "agents>=1.4.0",
+    "dotenv>=0.9.9",
+    "openai-agents>=0.0.19",
+    "streamlit>=1.46.0",
+]
