@@ -1,3 +1,8 @@
 dotenv
 openai-agents
 streamlit
+streamlit
+requests
+python-dotenv
+litellm
+openai
